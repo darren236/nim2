@@ -33,4 +33,4 @@ ngccli_linux.zip
 Thumbs.db 
 
 # NeMo repository (should be cloned by users)
-NeMo/ 
+# NeMo/  # Commented out to include in repository 
